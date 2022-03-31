@@ -11,5 +11,4 @@ Meu computador é um i5 3570k, com 16 GB de memória ram GPU GTX1060 e rodando W
 Meu primeiro contato com programação foi durante minha graduação, 
 programando em C++ tendo contato com maipulação de variáveis, 
 importação de bibliotecas e finalmente utilização e criação de funções.
-Após esse primeiro contato, aprendi por meio de cursos do Coursera
-a utilizar a linguagem R e Python, que utilizei em meus trabalhos da Pós.
+Após esse primeiro contato, aprendi por meio de cursos do Coursera a utilizar a linguagem R e Python, que utilizei em meus trabalhos da Pós. 
