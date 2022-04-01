@@ -13,6 +13,9 @@ programando em C++ tendo contato com maipulação de variáveis,
 importação de bibliotecas e finalmente utilização e criação de funções.
 Após esse primeiro contato, aprendi por meio de cursos do Coursera a utilizar a linguagem R e Python, que utilizei em meus trabalhos da Pós.
 
+
 # Feature 1
 
 # Fixes #1
+
+# Feature 2
