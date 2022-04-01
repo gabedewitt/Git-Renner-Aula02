@@ -16,3 +16,5 @@ Após esse primeiro contato, aprendi por meio de cursos do Coursera a utilizar a
 # Feature 1
 
 # Fixes #1
+
+# Feature 2
